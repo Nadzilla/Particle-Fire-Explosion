@@ -2,7 +2,7 @@
  * Screen.h
  *
  *  Created on: May 15, 2018
- *      Author: moham
+ *      Author: N/A
  */
 
 #ifndef SCREEN_H_
