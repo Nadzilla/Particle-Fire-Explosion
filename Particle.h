@@ -2,7 +2,7 @@
  * Particle.h
  *
  *  Created on: May 16, 2018
- *      Author: moham
+ *      Author: N/A
  */
 
 #ifndef PARTICLE_H_
