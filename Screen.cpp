@@ -2,7 +2,7 @@
  * Screen.cpp
  *
  *  Created on: May 15, 2018
- *      Author: moham
+ *      Author: N/A
  */
 
 #include "Screen.h"
