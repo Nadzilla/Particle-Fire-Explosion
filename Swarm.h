@@ -2,7 +2,7 @@
  * Swarm.h
  *
  *  Created on: May 16, 2018
- *      Author: moham
+ *      Author: N/A
  */
 
 #ifndef SWARM_H_
